@@ -1,0 +1,14 @@
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.AssemblyInfoInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.AssemblyInfo.cs
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\bin\Debug\net8.0\desafio target.exe
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\bin\Debug\net8.0\desafio target.deps.json
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\bin\Debug\net8.0\desafio target.runtimeconfig.json
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\bin\Debug\net8.0\desafio target.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\bin\Debug\net8.0\desafio target.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\refint\desafio target.dll
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.pdb
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\desafio target.genruntimeconfig.cache
+C:\Users\Robert\Documents\Estudo - Trabalho\desafio target\obj\Debug\net8.0\ref\desafio target.dll
